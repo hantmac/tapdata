@@ -41,7 +41,7 @@
           "x-component": "InputNumber",
           "apiServerKey": "database_port",
           "x-index": 2,
-          "required": true
+          "required": false
         },
         "database": {
           "type": "string",
